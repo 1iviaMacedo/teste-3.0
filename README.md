@@ -4,4 +4,4 @@
 <p> </p>
 ![image](./IMG/Imagem2.jfif)
 <p> </p>
-![image](./IMG/Imagem3)
+![image](./IMG/Imagem3.jfif)
